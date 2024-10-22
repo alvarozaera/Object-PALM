@@ -1,5 +1,5 @@
 # Object-PALM: Exploring VLMs for Object-Centric Action Recognition and Forecasting
-This repository extends the codebase from  [&lt;PALM: Predicting Actions through Language Models>](https://github.com/kim-sanghwan/PALM/tree/main) for the [Ego4d](https://github.com/facebookresearch/Ego4d) long-term action anticipation task.
+This repository extends the codebase from  [&lt;PALM: Predicting Actions through Language Models>](https://github.com/kim-sanghwan/PALM/tree/main) for the [Ego4d](https://github.com/facebookresearch/Ego4d) long-term action anticipation task. The original code can also be found in the branch named `PALM-original-code`.
 
 Similar to PALM, our codebase contains three main modules: action_recognition_module, image_captioning_module, and action_anticipation_module.
 
