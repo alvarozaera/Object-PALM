@@ -1,0 +1,523 @@
+Noun 0 Hit Accuracy (Recall): 1.0 (8/8) Average Labels Length: 15.0
+Noun 1 Hit Accuracy (Recall): 0.0 (0/2) Average Labels Length: 1.0
+No actions found for noun 2
+Noun 3 Hit Accuracy (Recall): 0.8984375 (115/128) Average Labels Length: 11.0234375
+No actions found for noun 4
+No actions found for noun 5
+Noun 6 Hit Accuracy (Recall): 0.0 (0/18) Average Labels Length: 12.777777777777779
+Noun 7 Hit Accuracy (Recall): 1.0 (2/2) Average Labels Length: 8.0
+No actions found for noun 8
+Noun 9 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 13.0
+Noun 10 Hit Accuracy (Recall): 0.4433139534883721 (305/688) Average Labels Length: 10.26453488372093
+No actions found for noun 11
+Noun 12 Hit Accuracy (Recall): 0.8175182481751825 (112/137) Average Labels Length: 6.416058394160584
+Noun 13 Hit Accuracy (Recall): 0.0 (0/11) Average Labels Length: 9.727272727272727
+Noun 14 Hit Accuracy (Recall): 0.6666666666666666 (2/3) Average Labels Length: 8.333333333333334
+Noun 15 Hit Accuracy (Recall): 0.8181818181818182 (9/11) Average Labels Length: 13.818181818181818
+Noun 16 Hit Accuracy (Recall): 0.0 (0/4) Average Labels Length: 7.25
+Noun 17 Hit Accuracy (Recall): 0.0 (0/10) Average Labels Length: 10.5
+Noun 18 Hit Accuracy (Recall): 0.8108108108108109 (30/37) Average Labels Length: 12.64864864864865
+Noun 19 Hit Accuracy (Recall): 0.0 (0/2) Average Labels Length: 4.0
+Noun 20 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 0.0
+Noun 21 Hit Accuracy (Recall): 0.5 (1/2) Average Labels Length: 11.5
+Noun 22 Hit Accuracy (Recall): 0.3448275862068966 (10/29) Average Labels Length: 14.172413793103448
+Noun 23 Hit Accuracy (Recall): 0.5 (14/28) Average Labels Length: 10.678571428571429
+Noun 24 Hit Accuracy (Recall): 0.0 (0/6) Average Labels Length: 13.166666666666666
+Noun 25 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 7.0
+Noun 26 Hit Accuracy (Recall): 0.30434782608695654 (7/23) Average Labels Length: 14.434782608695652
+Noun 27 Hit Accuracy (Recall): 0.5 (2/4) Average Labels Length: 6.0
+Noun 28 Hit Accuracy (Recall): 0.0 (0/8) Average Labels Length: 12.25
+Noun 29 Hit Accuracy (Recall): 0.2631578947368421 (5/19) Average Labels Length: 13.473684210526315
+Noun 30 Hit Accuracy (Recall): 0.8620689655172413 (50/58) Average Labels Length: 13.431034482758621
+Noun 31 Hit Accuracy (Recall): 0.6842105263157895 (13/19) Average Labels Length: 14.157894736842104
+Noun 32 Hit Accuracy (Recall): 0.918918918918919 (102/111) Average Labels Length: 8.792792792792794
+Noun 33 Hit Accuracy (Recall): 0.5 (2/4) Average Labels Length: 7.25
+Noun 34 Hit Accuracy (Recall): 0.4675324675324675 (36/77) Average Labels Length: 13.597402597402597
+Noun 35 Hit Accuracy (Recall): 0.3695652173913043 (17/46) Average Labels Length: 9.804347826086957
+No actions found for noun 36
+Noun 37 Hit Accuracy (Recall): 0.0 (0/8) Average Labels Length: 10.25
+Noun 38 Hit Accuracy (Recall): 0.8316326530612245 (163/196) Average Labels Length: 9.85204081632653
+No actions found for noun 39
+Noun 40 Hit Accuracy (Recall): 0.5188679245283019 (220/424) Average Labels Length: 11.03066037735849
+Noun 41 Hit Accuracy (Recall): 0.4035714285714286 (113/280) Average Labels Length: 11.846428571428572
+Noun 42 Hit Accuracy (Recall): 0.3333333333333333 (1/3) Average Labels Length: 11.333333333333334
+Noun 43 Hit Accuracy (Recall): 0.02 (1/50) Average Labels Length: 10.04
+Noun 44 Hit Accuracy (Recall): 0.3333333333333333 (5/15) Average Labels Length: 8.333333333333334
+Noun 45 Hit Accuracy (Recall): 0.953125 (61/64) Average Labels Length: 12.453125
+Noun 46 Hit Accuracy (Recall): 0.3469387755102041 (17/49) Average Labels Length: 10.693877551020408
+Noun 47 Hit Accuracy (Recall): 0.9531772575250836 (285/299) Average Labels Length: 6.722408026755853
+Noun 48 Hit Accuracy (Recall): 1.0 (46/46) Average Labels Length: 14.847826086956522
+Noun 49 Hit Accuracy (Recall): 0.7285714285714285 (51/70) Average Labels Length: 11.814285714285715
+Noun 50 Hit Accuracy (Recall): 0.22666666666666666 (51/225) Average Labels Length: 10.32
+No actions found for noun 51
+Noun 52 Hit Accuracy (Recall): 0.35384615384615387 (69/195) Average Labels Length: 9.835897435897436
+Noun 53 Hit Accuracy (Recall): 0.0 (0/21) Average Labels Length: 10.619047619047619
+No actions found for noun 54
+Noun 55 Hit Accuracy (Recall): 0.3888888888888889 (7/18) Average Labels Length: 10.166666666666666
+No actions found for noun 56
+Noun 57 Hit Accuracy (Recall): 0.047619047619047616 (1/21) Average Labels Length: 11.333333333333334
+Noun 58 Hit Accuracy (Recall): 1.0 (3/3) Average Labels Length: 15.0
+Noun 59 Hit Accuracy (Recall): 0.31724137931034485 (46/145) Average Labels Length: 8.717241379310344
+Noun 60 Hit Accuracy (Recall): 0.8 (16/20) Average Labels Length: 11.15
+Noun 61 Hit Accuracy (Recall): 0.0 (0/26) Average Labels Length: 12.615384615384615
+Noun 62 Hit Accuracy (Recall): 0.6842105263157895 (13/19) Average Labels Length: 12.789473684210526
+Noun 63 Hit Accuracy (Recall): 0.14285714285714285 (1/7) Average Labels Length: 12.571428571428571
+No actions found for noun 64
+Noun 65 Hit Accuracy (Recall): 0.9215686274509803 (47/51) Average Labels Length: 11.490196078431373
+Noun 66 Hit Accuracy (Recall): 0.9363957597173145 (265/283) Average Labels Length: 12.745583038869258
+Noun 67 Hit Accuracy (Recall): 0.9371196754563894 (462/493) Average Labels Length: 13.417849898580121
+Noun 68 Hit Accuracy (Recall): 0.8028169014084507 (114/142) Average Labels Length: 12.26056338028169
+Noun 69 Hit Accuracy (Recall): 0.0 (0/15) Average Labels Length: 9.6
+Noun 70 Hit Accuracy (Recall): 1.0 (114/114) Average Labels Length: 13.763157894736842
+Noun 71 Hit Accuracy (Recall): 0.0 (0/6) Average Labels Length: 10.0
+No actions found for noun 72
+Noun 73 Hit Accuracy (Recall): 0.6 (3/5) Average Labels Length: 7.2
+No actions found for noun 74
+Noun 75 Hit Accuracy (Recall): 1.0 (4/4) Average Labels Length: 11.0
+Noun 76 Hit Accuracy (Recall): 0.7449392712550608 (368/494) Average Labels Length: 9.524291497975709
+Noun 77 Hit Accuracy (Recall): 0.9285714285714286 (26/28) Average Labels Length: 13.714285714285714
+Noun 78 Hit Accuracy (Recall): 0.31521739130434784 (29/92) Average Labels Length: 14.282608695652174
+Noun 79 Hit Accuracy (Recall): 0.8852459016393442 (54/61) Average Labels Length: 9.688524590163935
+Noun 80 Hit Accuracy (Recall): 0.2 (10/50) Average Labels Length: 10.5
+Noun 81 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 7.0
+Noun 82 Hit Accuracy (Recall): 1.0 (3/3) Average Labels Length: 14.0
+Noun 83 Hit Accuracy (Recall): 0.8333333333333334 (15/18) Average Labels Length: 12.38888888888889
+Noun 84 Hit Accuracy (Recall): 0.0 (0/4) Average Labels Length: 13.75
+Noun 85 Hit Accuracy (Recall): 0.0 (0/74) Average Labels Length: 0.0
+Noun 86 Hit Accuracy (Recall): 0.0 (0/9) Average Labels Length: 0.0
+Noun 87 Hit Accuracy (Recall): 0.4883720930232558 (21/43) Average Labels Length: 10.209302325581396
+Noun 88 Hit Accuracy (Recall): 0.4375 (7/16) Average Labels Length: 14.5
+Noun 89 Hit Accuracy (Recall): 0.4939759036144578 (41/83) Average Labels Length: 11.734939759036145
+Noun 90 Hit Accuracy (Recall): 0.7666666666666667 (23/30) Average Labels Length: 13.566666666666666
+Noun 91 Hit Accuracy (Recall): 0.41025641025641024 (16/39) Average Labels Length: 9.512820512820513
+Noun 92 Hit Accuracy (Recall): 0.9318181818181818 (41/44) Average Labels Length: 13.772727272727273
+Noun 93 Hit Accuracy (Recall): 0.0 (0/38) Average Labels Length: 7.552631578947368
+Noun 94 Hit Accuracy (Recall): 0.9541984732824428 (750/786) Average Labels Length: 8.059796437659033
+Noun 95 Hit Accuracy (Recall): 0.0 (0/31) Average Labels Length: 10.516129032258064
+Noun 96 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 15.0
+Noun 97 Hit Accuracy (Recall): 0.38532883642495785 (457/1186) Average Labels Length: 9.830522765598651
+No actions found for noun 98
+Noun 99 Hit Accuracy (Recall): 1.0 (125/125) Average Labels Length: 15.0
+Noun 100 Hit Accuracy (Recall): 0.7142857142857143 (5/7) Average Labels Length: 14.857142857142858
+Noun 101 Hit Accuracy (Recall): 1.0 (1/1) Average Labels Length: 14.0
+Noun 102 Hit Accuracy (Recall): 0.0 (0/11) Average Labels Length: 15.0
+Noun 103 Hit Accuracy (Recall): 1.0 (3/3) Average Labels Length: 10.666666666666666
+Noun 104 Hit Accuracy (Recall): 0.8490566037735849 (90/106) Average Labels Length: 10.641509433962264
+Noun 105 Hit Accuracy (Recall): 0.26507276507276506 (255/962) Average Labels Length: 11.112266112266113
+Noun 106 Hit Accuracy (Recall): 0.125 (3/24) Average Labels Length: 13.208333333333334
+Noun 107 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 15.0
+No actions found for noun 108
+Noun 109 Hit Accuracy (Recall): 0.42857142857142855 (3/7) Average Labels Length: 7.714285714285714
+No actions found for noun 110
+Noun 111 Hit Accuracy (Recall): 0.0 (0/15) Average Labels Length: 10.0
+No actions found for noun 112
+Noun 113 Hit Accuracy (Recall): 0.0 (0/3) Average Labels Length: 15.0
+No actions found for noun 114
+Noun 115 Hit Accuracy (Recall): 0.7142857142857143 (5/7) Average Labels Length: 13.0
+Noun 116 Hit Accuracy (Recall): 1.0 (28/28) Average Labels Length: 11.821428571428571
+No actions found for noun 117
+Noun 118 Hit Accuracy (Recall): 0.4 (2/5) Average Labels Length: 15.0
+Noun 119 Hit Accuracy (Recall): 0.3439153439153439 (65/189) Average Labels Length: 11.195767195767196
+Noun 120 Hit Accuracy (Recall): 0.4411764705882353 (15/34) Average Labels Length: 8.764705882352942
+Noun 121 Hit Accuracy (Recall): 1.0 (1/1) Average Labels Length: 8.0
+Noun 122 Hit Accuracy (Recall): 0.4 (28/70) Average Labels Length: 12.014285714285714
+Noun 123 Hit Accuracy (Recall): 0.7380952380952381 (31/42) Average Labels Length: 11.714285714285714
+Noun 124 Hit Accuracy (Recall): 0.5 (11/22) Average Labels Length: 7.681818181818182
+Noun 125 Hit Accuracy (Recall): 0.3181818181818182 (7/22) Average Labels Length: 11.818181818181818
+Noun 126 Hit Accuracy (Recall): 0.85 (17/20) Average Labels Length: 12.4
+Noun 127 Hit Accuracy (Recall): 0.0 (0/5) Average Labels Length: 11.6
+Noun 128 Hit Accuracy (Recall): 0.875 (7/8) Average Labels Length: 9.0
+Noun 129 Hit Accuracy (Recall): 0.3522012578616352 (56/159) Average Labels Length: 8.29559748427673
+No actions found for noun 130
+Noun 131 Hit Accuracy (Recall): 0.8310055865921788 (595/716) Average Labels Length: 12.650837988826815
+Noun 132 Hit Accuracy (Recall): 0.7272727272727273 (16/22) Average Labels Length: 10.045454545454545
+No actions found for noun 133
+Noun 134 Hit Accuracy (Recall): 0.4716981132075472 (100/212) Average Labels Length: 9.75943396226415
+Noun 135 Hit Accuracy (Recall): 0.3333333333333333 (3/9) Average Labels Length: 11.0
+Noun 136 Hit Accuracy (Recall): 0.6732673267326733 (68/101) Average Labels Length: 10.881188118811881
+Noun 137 Hit Accuracy (Recall): 0.7777777777777778 (14/18) Average Labels Length: 10.055555555555555
+Noun 138 Hit Accuracy (Recall): 0.0 (0/6) Average Labels Length: 10.0
+Noun 139 Hit Accuracy (Recall): 0.7272727272727273 (8/11) Average Labels Length: 6.090909090909091
+Noun 140 Hit Accuracy (Recall): 0.0 (0/25) Average Labels Length: 8.2
+Noun 141 Hit Accuracy (Recall): 0.0 (0/11) Average Labels Length: 6.090909090909091
+Noun 142 Hit Accuracy (Recall): 0.45454545454545453 (5/11) Average Labels Length: 13.0
+Noun 143 Hit Accuracy (Recall): 0.8913043478260869 (41/46) Average Labels Length: 14.152173913043478
+Noun 144 Hit Accuracy (Recall): 0.0 (0/3) Average Labels Length: 13.333333333333334
+Noun 145 Hit Accuracy (Recall): 0.9066666666666666 (68/75) Average Labels Length: 10.546666666666667
+Noun 146 Hit Accuracy (Recall): 0.0 (0/2) Average Labels Length: 7.5
+Noun 147 Hit Accuracy (Recall): 0.0 (0/11) Average Labels Length: 12.363636363636363
+Noun 148 Hit Accuracy (Recall): 0.075 (3/40) Average Labels Length: 11.4
+Noun 149 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 7.0
+Noun 150 Hit Accuracy (Recall): 0.8772455089820359 (293/334) Average Labels Length: 11.194610778443113
+Noun 151 Hit Accuracy (Recall): 0.42105263157894735 (8/19) Average Labels Length: 11.31578947368421
+Noun 152 Hit Accuracy (Recall): 0.0 (0/18) Average Labels Length: 10.222222222222221
+Noun 153 Hit Accuracy (Recall): 0.0 (0/6) Average Labels Length: 13.333333333333334
+Noun 154 Hit Accuracy (Recall): 0.0 (0/12) Average Labels Length: 10.583333333333334
+Noun 155 Hit Accuracy (Recall): 0.9090909090909091 (50/55) Average Labels Length: 13.854545454545455
+No actions found for noun 156
+Noun 157 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 6.0
+Noun 158 Hit Accuracy (Recall): 0.13170731707317074 (27/205) Average Labels Length: 10.165853658536586
+Noun 159 Hit Accuracy (Recall): 0.5420560747663551 (58/107) Average Labels Length: 11.91588785046729
+Noun 160 Hit Accuracy (Recall): 0.944078947368421 (287/304) Average Labels Length: 11.657894736842104
+Noun 161 Hit Accuracy (Recall): 0.045454545454545456 (5/110) Average Labels Length: 10.5
+Noun 162 Hit Accuracy (Recall): 0.5 (2/4) Average Labels Length: 9.5
+Noun 163 Hit Accuracy (Recall): 0.72 (36/50) Average Labels Length: 14.4
+Noun 164 Hit Accuracy (Recall): 0.0 (0/6) Average Labels Length: 7.666666666666667
+Noun 165 Hit Accuracy (Recall): 0.6666666666666666 (32/48) Average Labels Length: 13.5625
+Noun 166 Hit Accuracy (Recall): 0.8125 (65/80) Average Labels Length: 9.575
+Noun 167 Hit Accuracy (Recall): 0.0 (0/3) Average Labels Length: 13.666666666666666
+No actions found for noun 168
+Noun 169 Hit Accuracy (Recall): 0.0 (0/2) Average Labels Length: 5.0
+Noun 170 Hit Accuracy (Recall): 1.0 (16/16) Average Labels Length: 9.8125
+Noun 171 Hit Accuracy (Recall): 0.03571428571428571 (1/28) Average Labels Length: 8.75
+Noun 172 Hit Accuracy (Recall): 0.6842105263157895 (26/38) Average Labels Length: 14.157894736842104
+Noun 173 Hit Accuracy (Recall): 0.0 (0/7) Average Labels Length: 8.714285714285714
+Noun 174 Hit Accuracy (Recall): 0.4 (2/5) Average Labels Length: 10.2
+Noun 175 Hit Accuracy (Recall): 0.0 (0/5) Average Labels Length: 12.2
+Noun 176 Hit Accuracy (Recall): 0.0 (0/3) Average Labels Length: 7.666666666666667
+Noun 177 Hit Accuracy (Recall): 0.14814814814814814 (4/27) Average Labels Length: 10.222222222222221
+Noun 178 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 10.0
+Noun 179 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 5.0
+Noun 180 Hit Accuracy (Recall): 0.1232876712328767 (9/73) Average Labels Length: 10.095890410958905
+Noun 181 Hit Accuracy (Recall): 0.23076923076923078 (6/26) Average Labels Length: 10.807692307692308
+Noun 182 Hit Accuracy (Recall): 0.3548387096774194 (22/62) Average Labels Length: 10.0
+Noun 183 Hit Accuracy (Recall): 0.0 (0/43) Average Labels Length: 13.534883720930232
+Noun 184 Hit Accuracy (Recall): 0.0 (0/3) Average Labels Length: 10.333333333333334
+Noun 185 Hit Accuracy (Recall): 0.7692307692307693 (10/13) Average Labels Length: 6.076923076923077
+No actions found for noun 186
+Noun 187 Hit Accuracy (Recall): 0.34285714285714286 (12/35) Average Labels Length: 13.714285714285714
+No actions found for noun 188
+Noun 189 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 15.0
+Noun 190 Hit Accuracy (Recall): 0.8064516129032258 (75/93) Average Labels Length: 10.612903225806452
+Noun 191 Hit Accuracy (Recall): 1.0 (7/7) Average Labels Length: 14.428571428571429
+Noun 192 Hit Accuracy (Recall): 0.16666666666666666 (1/6) Average Labels Length: 13.166666666666666
+Noun 193 Hit Accuracy (Recall): 0.5714285714285714 (16/28) Average Labels Length: 9.392857142857142
+No actions found for noun 194
+Noun 195 Hit Accuracy (Recall): 1.0 (10/10) Average Labels Length: 7.1
+Noun 196 Hit Accuracy (Recall): 0.9090909090909091 (10/11) Average Labels Length: 13.272727272727273
+Noun 197 Hit Accuracy (Recall): 0.674074074074074 (91/135) Average Labels Length: 10.814814814814815
+Noun 198 Hit Accuracy (Recall): 0.0 (0/34) Average Labels Length: 11.588235294117647
+Noun 199 Hit Accuracy (Recall): 0.0 (0/86) Average Labels Length: 10.418604651162791
+Noun 200 Hit Accuracy (Recall): 0.4444444444444444 (4/9) Average Labels Length: 10.222222222222221
+Noun 201 Hit Accuracy (Recall): 0.0 (0/2) Average Labels Length: 9.0
+Noun 202 Hit Accuracy (Recall): 1.0 (23/23) Average Labels Length: 9.521739130434783
+Noun 203 Hit Accuracy (Recall): 1.0 (9/9) Average Labels Length: 8.777777777777779
+No actions found for noun 204
+Noun 205 Hit Accuracy (Recall): 0.7 (7/10) Average Labels Length: 13.0
+Noun 206 Hit Accuracy (Recall): 0.0 (0/3) Average Labels Length: 8.333333333333334
+Noun 207 Hit Accuracy (Recall): 0.3333333333333333 (1/3) Average Labels Length: 5.333333333333333
+No actions found for noun 208
+Noun 209 Hit Accuracy (Recall): 0.0 (0/3) Average Labels Length: 11.0
+No actions found for noun 210
+Noun 211 Hit Accuracy (Recall): 0.7432432432432432 (110/148) Average Labels Length: 13.567567567567568
+No actions found for noun 212
+Noun 213 Hit Accuracy (Recall): 0.125 (1/8) Average Labels Length: 13.5
+No actions found for noun 214
+No actions found for noun 215
+Noun 216 Hit Accuracy (Recall): 0.625 (75/120) Average Labels Length: 10.558333333333334
+Noun 217 Hit Accuracy (Recall): 0.06666666666666667 (2/30) Average Labels Length: 9.266666666666667
+Noun 218 Hit Accuracy (Recall): 0.5384615384615384 (7/13) Average Labels Length: 8.846153846153847
+Noun 219 Hit Accuracy (Recall): 0.1457286432160804 (29/199) Average Labels Length: 11.658291457286433
+No actions found for noun 220
+Noun 221 Hit Accuracy (Recall): 0.3333333333333333 (1/3) Average Labels Length: 12.666666666666666
+Noun 222 Hit Accuracy (Recall): 0.5294117647058824 (9/17) Average Labels Length: 13.117647058823529
+Noun 223 Hit Accuracy (Recall): 0.16216216216216217 (6/37) Average Labels Length: 10.594594594594595
+Noun 224 Hit Accuracy (Recall): 0.96 (24/25) Average Labels Length: 7.28
+Noun 225 Hit Accuracy (Recall): 0.5086505190311419 (147/289) Average Labels Length: 11.858131487889274
+Noun 226 Hit Accuracy (Recall): 0.0 (0/6) Average Labels Length: 13.0
+Noun 227 Hit Accuracy (Recall): 0.2826086956521739 (26/92) Average Labels Length: 8.717391304347826
+Noun 228 Hit Accuracy (Recall): 0.6956521739130435 (96/138) Average Labels Length: 13.217391304347826
+Noun 229 Hit Accuracy (Recall): 1.0 (25/25) Average Labels Length: 10.4
+Noun 230 Hit Accuracy (Recall): 0.0 (0/4) Average Labels Length: 10.75
+Noun 231 Hit Accuracy (Recall): 1.0 (1/1) Average Labels Length: 15.0
+Noun 232 Hit Accuracy (Recall): 0.0 (0/45) Average Labels Length: 8.066666666666666
+Noun 233 Hit Accuracy (Recall): 0.07302231237322515 (36/493) Average Labels Length: 11.496957403651116
+Noun 234 Hit Accuracy (Recall): 0.18181818181818182 (4/22) Average Labels Length: 11.863636363636363
+Noun 235 Hit Accuracy (Recall): 0.6666666666666666 (4/6) Average Labels Length: 11.666666666666666
+Noun 236 Hit Accuracy (Recall): 0.8461538461538461 (11/13) Average Labels Length: 13.461538461538462
+Noun 237 Hit Accuracy (Recall): 0.26666666666666666 (4/15) Average Labels Length: 9.133333333333333
+Noun 238 Hit Accuracy (Recall): 0.09090909090909091 (2/22) Average Labels Length: 9.227272727272727
+No actions found for noun 239
+No actions found for noun 240
+No actions found for noun 241
+Noun 242 Hit Accuracy (Recall): 0.0 (0/34) Average Labels Length: 12.764705882352942
+Noun 243 Hit Accuracy (Recall): 0.096 (12/125) Average Labels Length: 11.0
+Noun 244 Hit Accuracy (Recall): 0.75 (3/4) Average Labels Length: 15.0
+Noun 245 Hit Accuracy (Recall): 0.7777777777777778 (56/72) Average Labels Length: 13.402777777777779
+Noun 246 Hit Accuracy (Recall): 0.3333333333333333 (2/6) Average Labels Length: 12.5
+Noun 247 Hit Accuracy (Recall): 0.4342105263157895 (132/304) Average Labels Length: 9.365131578947368
+Noun 248 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 4.0
+Noun 249 Hit Accuracy (Recall): 1.0 (5/5) Average Labels Length: 12.4
+Noun 250 Hit Accuracy (Recall): 0.8333333333333334 (5/6) Average Labels Length: 12.333333333333334
+Noun 251 Hit Accuracy (Recall): 0.25 (2/8) Average Labels Length: 12.875
+Noun 252 Hit Accuracy (Recall): 0.75 (3/4) Average Labels Length: 12.25
+Noun 253 Hit Accuracy (Recall): 0.005494505494505495 (3/546) Average Labels Length: 8.038461538461538
+Noun 254 Hit Accuracy (Recall): 0.6666666666666666 (4/6) Average Labels Length: 13.0
+Noun 255 Hit Accuracy (Recall): 0.4444444444444444 (8/18) Average Labels Length: 8.277777777777779
+Noun 256 Hit Accuracy (Recall): 0.6574074074074074 (71/108) Average Labels Length: 9.62037037037037
+Noun 257 Hit Accuracy (Recall): 0.9333333333333333 (28/30) Average Labels Length: 10.2
+Noun 258 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 11.0
+Noun 259 Hit Accuracy (Recall): 0.7008547008547008 (82/117) Average Labels Length: 12.35897435897436
+Noun 260 Hit Accuracy (Recall): 1.0 (41/41) Average Labels Length: 12.390243902439025
+Noun 261 Hit Accuracy (Recall): 1.0 (1/1) Average Labels Length: 15.0
+Noun 262 Hit Accuracy (Recall): 0.6666666666666666 (8/12) Average Labels Length: 12.583333333333334
+Noun 263 Hit Accuracy (Recall): 0.4166666666666667 (15/36) Average Labels Length: 10.61111111111111
+Noun 264 Hit Accuracy (Recall): 0.9375 (30/32) Average Labels Length: 13.5625
+Noun 265 Hit Accuracy (Recall): 0.2916666666666667 (70/240) Average Labels Length: 10.15
+No actions found for noun 266
+Noun 267 Hit Accuracy (Recall): 0.3333333333333333 (33/99) Average Labels Length: 11.606060606060606
+Noun 268 Hit Accuracy (Recall): 0.4 (2/5) Average Labels Length: 12.6
+Noun 269 Hit Accuracy (Recall): 0.15 (3/20) Average Labels Length: 13.35
+Noun 270 Hit Accuracy (Recall): 0.9974842767295597 (793/795) Average Labels Length: 14.854088050314465
+Noun 271 Hit Accuracy (Recall): 0.0 (0/109) Average Labels Length: 0.0
+Noun 272 Hit Accuracy (Recall): 0.36363636363636365 (16/44) Average Labels Length: 13.409090909090908
+Noun 273 Hit Accuracy (Recall): 0.3333333333333333 (1/3) Average Labels Length: 15.0
+Noun 274 Hit Accuracy (Recall): 0.5321100917431193 (58/109) Average Labels Length: 14.880733944954128
+Noun 275 Hit Accuracy (Recall): 0.5625 (9/16) Average Labels Length: 8.8125
+Noun 276 Hit Accuracy (Recall): 0.0 (0/10) Average Labels Length: 8.0
+Noun 277 Hit Accuracy (Recall): 0.08064516129032258 (15/186) Average Labels Length: 10.35483870967742
+Noun 278 Hit Accuracy (Recall): 0.2032520325203252 (25/123) Average Labels Length: 6.894308943089431
+Noun 279 Hit Accuracy (Recall): 0.40476190476190477 (255/630) Average Labels Length: 9.365079365079366
+Noun 280 Hit Accuracy (Recall): 0.5 (24/48) Average Labels Length: 13.083333333333334
+Noun 281 Hit Accuracy (Recall): 0.5960264900662252 (90/151) Average Labels Length: 11.993377483443709
+Noun 282 Hit Accuracy (Recall): 0.875 (14/16) Average Labels Length: 14.875
+Noun 283 Hit Accuracy (Recall): 0.3 (3/10) Average Labels Length: 7.7
+Noun 284 Hit Accuracy (Recall): 0.2339622641509434 (62/265) Average Labels Length: 9.977358490566038
+No actions found for noun 285
+Noun 286 Hit Accuracy (Recall): 0.6107784431137725 (306/501) Average Labels Length: 11.113772455089821
+Noun 287 Hit Accuracy (Recall): 0.6944444444444444 (25/36) Average Labels Length: 14.916666666666666
+Noun 288 Hit Accuracy (Recall): 0.0 (0/12) Average Labels Length: 12.25
+Noun 289 Hit Accuracy (Recall): 0.0 (0/38) Average Labels Length: 11.973684210526315
+Noun 290 Hit Accuracy (Recall): 0.32727272727272727 (18/55) Average Labels Length: 15.0
+Noun 291 Hit Accuracy (Recall): 1.0 (1/1) Average Labels Length: 15.0
+Noun 292 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 15.0
+Noun 293 Hit Accuracy (Recall): 0.10256410256410256 (4/39) Average Labels Length: 11.153846153846153
+Noun 294 Hit Accuracy (Recall): 0.05405405405405406 (4/74) Average Labels Length: 12.22972972972973
+Noun 295 Hit Accuracy (Recall): 0.4 (2/5) Average Labels Length: 14.2
+Noun 296 Hit Accuracy (Recall): 0.0 (0/16) Average Labels Length: 8.1875
+Noun 297 Hit Accuracy (Recall): 0.5441176470588235 (74/136) Average Labels Length: 11.088235294117647
+Noun 298 Hit Accuracy (Recall): 0.5869565217391305 (27/46) Average Labels Length: 11.326086956521738
+Noun 299 Hit Accuracy (Recall): 0.75 (60/80) Average Labels Length: 14.1625
+Noun 300 Hit Accuracy (Recall): 0.8945783132530121 (297/332) Average Labels Length: 9.481927710843374
+No actions found for noun 301
+Noun 302 Hit Accuracy (Recall): 1.0 (2/2) Average Labels Length: 9.5
+No actions found for noun 303
+Noun 304 Hit Accuracy (Recall): 0.8571428571428571 (30/35) Average Labels Length: 12.771428571428572
+Noun 305 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 15.0
+Noun 306 Hit Accuracy (Recall): 0.16666666666666666 (5/30) Average Labels Length: 6.433333333333334
+No actions found for noun 307
+Noun 308 Hit Accuracy (Recall): 0.0 (0/17) Average Labels Length: 11.058823529411764
+Noun 309 Hit Accuracy (Recall): 0.058823529411764705 (5/85) Average Labels Length: 11.8
+No actions found for noun 310
+Noun 311 Hit Accuracy (Recall): 0.0 (0/28) Average Labels Length: 5.464285714285714
+Noun 312 Hit Accuracy (Recall): 0.8987485779294653 (790/879) Average Labels Length: 13.159271899886233
+Noun 313 Hit Accuracy (Recall): 0.3424657534246575 (75/219) Average Labels Length: 11.917808219178083
+Noun 314 Hit Accuracy (Recall): 0.9766081871345029 (167/171) Average Labels Length: 13.152046783625732
+Noun 315 Hit Accuracy (Recall): 0.2112676056338028 (30/142) Average Labels Length: 10.30281690140845
+Noun 316 Hit Accuracy (Recall): 0.4722222222222222 (17/36) Average Labels Length: 10.583333333333334
+Noun 317 Hit Accuracy (Recall): 0.1111111111111111 (2/18) Average Labels Length: 8.222222222222221
+No actions found for noun 318
+Noun 319 Hit Accuracy (Recall): 0.7581699346405228 (116/153) Average Labels Length: 12.326797385620916
+Noun 320 Hit Accuracy (Recall): 0.0 (0/43) Average Labels Length: 0.0
+Noun 321 Hit Accuracy (Recall): 0.9897959183673469 (97/98) Average Labels Length: 14.846938775510203
+Noun 322 Hit Accuracy (Recall): 0.0 (0/5) Average Labels Length: 11.2
+Noun 323 Hit Accuracy (Recall): 0.0 (0/2) Average Labels Length: 15.0
+Noun 324 Hit Accuracy (Recall): 0.25 (1/4) Average Labels Length: 11.0
+Noun 325 Hit Accuracy (Recall): 0.8085106382978723 (38/47) Average Labels Length: 12.382978723404255
+Noun 326 Hit Accuracy (Recall): 0.0 (0/8) Average Labels Length: 10.375
+Noun 327 Hit Accuracy (Recall): 0.7555555555555555 (68/90) Average Labels Length: 13.28888888888889
+Noun 328 Hit Accuracy (Recall): 0.5647058823529412 (48/85) Average Labels Length: 10.258823529411766
+Noun 329 Hit Accuracy (Recall): 0.6666666666666666 (8/12) Average Labels Length: 11.916666666666666
+Noun 330 Hit Accuracy (Recall): 0.0 (0/8) Average Labels Length: 12.125
+Noun 331 Hit Accuracy (Recall): 0.6428571428571429 (9/14) Average Labels Length: 14.5
+Noun 332 Hit Accuracy (Recall): 0.10256410256410256 (4/39) Average Labels Length: 9.128205128205128
+Noun 333 Hit Accuracy (Recall): 0.0 (0/17) Average Labels Length: 8.176470588235293
+Noun 334 Hit Accuracy (Recall): 0.03643724696356275 (9/247) Average Labels Length: 9.639676113360323
+Noun 335 Hit Accuracy (Recall): 0.8709677419354839 (27/31) Average Labels Length: 12.419354838709678
+Noun 336 Hit Accuracy (Recall): 0.9090909090909091 (30/33) Average Labels Length: 11.303030303030303
+Noun 337 Hit Accuracy (Recall): 0.6052631578947368 (23/38) Average Labels Length: 11.052631578947368
+Noun 338 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 14.0
+Noun 339 Hit Accuracy (Recall): 0.0 (0/8) Average Labels Length: 9.625
+Noun 340 Hit Accuracy (Recall): 0.673469387755102 (66/98) Average Labels Length: 11.214285714285714
+Noun 341 Hit Accuracy (Recall): 0.8576271186440678 (253/295) Average Labels Length: 8.76271186440678
+Noun 342 Hit Accuracy (Recall): 0.0 (0/21) Average Labels Length: 11.952380952380953
+Noun 343 Hit Accuracy (Recall): 0.0 (0/46) Average Labels Length: 10.304347826086957
+No actions found for noun 344
+Noun 345 Hit Accuracy (Recall): 0.625 (5/8) Average Labels Length: 15.0
+Noun 346 Hit Accuracy (Recall): 1.0 (1/1) Average Labels Length: 15.0
+Noun 347 Hit Accuracy (Recall): 0.625 (20/32) Average Labels Length: 8.78125
+Noun 348 Hit Accuracy (Recall): 0.0 (0/7) Average Labels Length: 8.142857142857142
+Noun 349 Hit Accuracy (Recall): 0.8266666666666667 (124/150) Average Labels Length: 10.286666666666667
+Noun 350 Hit Accuracy (Recall): 0.14285714285714285 (2/14) Average Labels Length: 8.142857142857142
+Noun 351 Hit Accuracy (Recall): 0.0 (0/55) Average Labels Length: 8.636363636363637
+Noun 352 Hit Accuracy (Recall): 0.19797979797979798 (98/495) Average Labels Length: 10.301010101010101
+Noun 353 Hit Accuracy (Recall): 0.4744318181818182 (167/352) Average Labels Length: 10.795454545454545
+Noun 354 Hit Accuracy (Recall): 0.3333333333333333 (3/9) Average Labels Length: 10.444444444444445
+Noun 355 Hit Accuracy (Recall): 0.044444444444444446 (2/45) Average Labels Length: 13.977777777777778
+Noun 356 Hit Accuracy (Recall): 0.7154471544715447 (88/123) Average Labels Length: 13.43089430894309
+Noun 357 Hit Accuracy (Recall): 0.2926829268292683 (12/41) Average Labels Length: 8.365853658536585
+Noun 358 Hit Accuracy (Recall): 1.0 (24/24) Average Labels Length: 9.291666666666666
+Noun 359 Hit Accuracy (Recall): 0.0 (0/6) Average Labels Length: 9.833333333333334
+Noun 360 Hit Accuracy (Recall): 0.4444444444444444 (16/36) Average Labels Length: 13.25
+Noun 361 Hit Accuracy (Recall): 0.09090909090909091 (1/11) Average Labels Length: 12.818181818181818
+Noun 362 Hit Accuracy (Recall): 0.3333333333333333 (2/6) Average Labels Length: 9.333333333333334
+Noun 363 Hit Accuracy (Recall): 0.6236559139784946 (58/93) Average Labels Length: 14.741935483870968
+Noun 364 Hit Accuracy (Recall): 0.19626168224299065 (21/107) Average Labels Length: 10.448598130841122
+Noun 365 Hit Accuracy (Recall): 0.6576576576576577 (73/111) Average Labels Length: 9.837837837837839
+Noun 366 Hit Accuracy (Recall): 0.5192307692307693 (27/52) Average Labels Length: 10.942307692307692
+Noun 367 Hit Accuracy (Recall): 0.75 (3/4) Average Labels Length: 10.5
+Noun 368 Hit Accuracy (Recall): 0.0 (0/2) Average Labels Length: 11.0
+Noun 369 Hit Accuracy (Recall): 0.5555555555555556 (55/99) Average Labels Length: 12.737373737373737
+Noun 370 Hit Accuracy (Recall): 0.3793103448275862 (11/29) Average Labels Length: 9.310344827586206
+Noun 371 Hit Accuracy (Recall): 0.0 (0/3) Average Labels Length: 13.0
+Noun 372 Hit Accuracy (Recall): 0.0 (0/5) Average Labels Length: 7.6
+Noun 373 Hit Accuracy (Recall): 0.0 (0/5) Average Labels Length: 6.6
+Noun 374 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 3.0
+Noun 375 Hit Accuracy (Recall): 0.627906976744186 (27/43) Average Labels Length: 9.953488372093023
+Noun 376 Hit Accuracy (Recall): 0.23076923076923078 (3/13) Average Labels Length: 9.0
+Noun 377 Hit Accuracy (Recall): 0.09090909090909091 (2/22) Average Labels Length: 10.363636363636363
+No actions found for noun 378
+Noun 379 Hit Accuracy (Recall): 0.3836065573770492 (117/305) Average Labels Length: 11.534426229508197
+Noun 380 Hit Accuracy (Recall): 0.0 (0/52) Average Labels Length: 11.98076923076923
+Noun 381 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 15.0
+No actions found for noun 382
+Noun 383 Hit Accuracy (Recall): 0.2826086956521739 (13/46) Average Labels Length: 13.217391304347826
+Noun 384 Hit Accuracy (Recall): 0.625 (10/16) Average Labels Length: 12.8125
+Noun 385 Hit Accuracy (Recall): 0.0 (0/6) Average Labels Length: 9.833333333333334
+Noun 386 Hit Accuracy (Recall): 0.47368421052631576 (9/19) Average Labels Length: 14.68421052631579
+No actions found for noun 387
+Noun 388 Hit Accuracy (Recall): 0.2571428571428571 (9/35) Average Labels Length: 9.0
+Noun 389 Hit Accuracy (Recall): 0.6480836236933798 (186/287) Average Labels Length: 9.564459930313589
+Noun 390 Hit Accuracy (Recall): 0.3888888888888889 (105/270) Average Labels Length: 12.007407407407408
+Noun 391 Hit Accuracy (Recall): 0.23214285714285715 (26/112) Average Labels Length: 12.267857142857142
+Noun 392 Hit Accuracy (Recall): 0.0 (0/8) Average Labels Length: 9.5
+Noun 393 Hit Accuracy (Recall): 0.6666666666666666 (4/6) Average Labels Length: 15.0
+Noun 394 Hit Accuracy (Recall): 0.3225806451612903 (10/31) Average Labels Length: 12.193548387096774
+No actions found for noun 395
+No actions found for noun 396
+Noun 397 Hit Accuracy (Recall): 0.0 (0/14) Average Labels Length: 8.071428571428571
+Noun 398 Hit Accuracy (Recall): 0.8857142857142857 (31/35) Average Labels Length: 9.885714285714286
+Noun 399 Hit Accuracy (Recall): 0.41935483870967744 (39/93) Average Labels Length: 11.720430107526882
+Noun 400 Hit Accuracy (Recall): 0.0 (0/8) Average Labels Length: 11.5
+No actions found for noun 401
+Noun 402 Hit Accuracy (Recall): 0.4855072463768116 (67/138) Average Labels Length: 11.057971014492754
+Noun 403 Hit Accuracy (Recall): 0.0 (0/18) Average Labels Length: 5.5
+Noun 404 Hit Accuracy (Recall): 1.0 (4/4) Average Labels Length: 14.0
+Noun 405 Hit Accuracy (Recall): 0.5625 (9/16) Average Labels Length: 10.1875
+Noun 406 Hit Accuracy (Recall): 1.0 (14/14) Average Labels Length: 14.071428571428571
+Noun 407 Hit Accuracy (Recall): 0.3579418344519016 (160/447) Average Labels Length: 11.431767337807607
+No actions found for noun 408
+Noun 409 Hit Accuracy (Recall): 0.18867924528301888 (20/106) Average Labels Length: 10.518867924528301
+Noun 410 Hit Accuracy (Recall): 0.8571428571428571 (6/7) Average Labels Length: 11.857142857142858
+Noun 411 Hit Accuracy (Recall): 0.36792452830188677 (39/106) Average Labels Length: 10.81132075471698
+Noun 412 Hit Accuracy (Recall): 1.0 (233/233) Average Labels Length: 8.866952789699571
+No actions found for noun 413
+Noun 414 Hit Accuracy (Recall): 0.17721518987341772 (14/79) Average Labels Length: 10.0
+Noun 415 Hit Accuracy (Recall): 0.7204301075268817 (134/186) Average Labels Length: 11.89247311827957
+Noun 416 Hit Accuracy (Recall): 0.0 (0/5) Average Labels Length: 13.6
+Noun 417 Hit Accuracy (Recall): 0.09523809523809523 (2/21) Average Labels Length: 13.666666666666666
+No actions found for noun 418
+Noun 419 Hit Accuracy (Recall): 0.5 (1/2) Average Labels Length: 10.5
+Noun 420 Hit Accuracy (Recall): 0.5 (2/4) Average Labels Length: 12.25
+Noun 421 Hit Accuracy (Recall): 0.0 (0/2) Average Labels Length: 9.0
+Noun 422 Hit Accuracy (Recall): 0.1 (3/30) Average Labels Length: 9.2
+Noun 423 Hit Accuracy (Recall): 0.5 (2/4) Average Labels Length: 9.75
+No actions found for noun 424
+Noun 425 Hit Accuracy (Recall): 1.0 (1/1) Average Labels Length: 7.0
+Noun 426 Hit Accuracy (Recall): 0.0 (0/2) Average Labels Length: 5.5
+Noun 427 Hit Accuracy (Recall): 0.953125 (61/64) Average Labels Length: 14.90625
+Noun 428 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 0.0
+Noun 429 Hit Accuracy (Recall): 0.2857142857142857 (8/28) Average Labels Length: 7.714285714285714
+Noun 430 Hit Accuracy (Recall): 0.7142857142857143 (5/7) Average Labels Length: 13.428571428571429
+Noun 431 Hit Accuracy (Recall): 0.2222222222222222 (2/9) Average Labels Length: 7.222222222222222
+Noun 432 Hit Accuracy (Recall): 0.16129032258064516 (5/31) Average Labels Length: 9.193548387096774
+Noun 433 Hit Accuracy (Recall): 0.23404255319148937 (33/141) Average Labels Length: 10.418439716312056
+Noun 434 Hit Accuracy (Recall): 0.6395348837209303 (55/86) Average Labels Length: 10.604651162790697
+Noun 435 Hit Accuracy (Recall): 1.0 (4/4) Average Labels Length: 13.25
+Noun 436 Hit Accuracy (Recall): 0.13333333333333333 (2/15) Average Labels Length: 11.733333333333333
+Noun 437 Hit Accuracy (Recall): 0.02631578947368421 (2/76) Average Labels Length: 11.355263157894736
+No actions found for noun 438
+Noun 439 Hit Accuracy (Recall): 0.8181818181818182 (18/22) Average Labels Length: 10.090909090909092
+Noun 440 Hit Accuracy (Recall): 0.8333333333333334 (10/12) Average Labels Length: 13.583333333333334
+Noun 441 Hit Accuracy (Recall): 0.09815950920245399 (16/163) Average Labels Length: 9.94478527607362
+No actions found for noun 442
+Noun 443 Hit Accuracy (Recall): 0.0 (0/9) Average Labels Length: 13.0
+Noun 444 Hit Accuracy (Recall): 0.4 (2/5) Average Labels Length: 12.8
+Noun 445 Hit Accuracy (Recall): 0.0 (0/48) Average Labels Length: 11.0
+Noun 446 Hit Accuracy (Recall): 0.0 (0/5) Average Labels Length: 0.0
+Noun 447 Hit Accuracy (Recall): 0.6923076923076923 (63/91) Average Labels Length: 12.505494505494505
+Noun 448 Hit Accuracy (Recall): 0.0 (0/9) Average Labels Length: 10.0
+Noun 449 Hit Accuracy (Recall): 0.44680851063829785 (21/47) Average Labels Length: 11.25531914893617
+Noun 450 Hit Accuracy (Recall): 1.0 (1/1) Average Labels Length: 7.0
+No actions found for noun 451
+Noun 452 Hit Accuracy (Recall): 0.6420454545454546 (226/352) Average Labels Length: 6.877840909090909
+No actions found for noun 453
+Noun 454 Hit Accuracy (Recall): 0.125 (3/24) Average Labels Length: 9.041666666666666
+Noun 455 Hit Accuracy (Recall): 0.2647058823529412 (9/34) Average Labels Length: 8.147058823529411
+Noun 456 Hit Accuracy (Recall): 0.4 (4/10) Average Labels Length: 8.7
+Noun 457 Hit Accuracy (Recall): 0.4716981132075472 (75/159) Average Labels Length: 10.20754716981132
+Noun 458 Hit Accuracy (Recall): 0.0 (0/3) Average Labels Length: 15.0
+Noun 459 Hit Accuracy (Recall): 0.8636363636363636 (19/22) Average Labels Length: 10.272727272727273
+Noun 460 Hit Accuracy (Recall): 0.1891891891891892 (7/37) Average Labels Length: 9.64864864864865
+Noun 461 Hit Accuracy (Recall): 0.7 (7/10) Average Labels Length: 13.5
+Noun 462 Hit Accuracy (Recall): 0.7824561403508772 (223/285) Average Labels Length: 8.43859649122807
+Noun 463 Hit Accuracy (Recall): 0.3333333333333333 (1/3) Average Labels Length: 13.0
+Noun 464 Hit Accuracy (Recall): 1.0 (8/8) Average Labels Length: 14.75
+Noun 465 Hit Accuracy (Recall): 0.75 (6/8) Average Labels Length: 10.5
+Noun 466 Hit Accuracy (Recall): 0.9 (9/10) Average Labels Length: 14.7
+Noun 467 Hit Accuracy (Recall): 0.7391304347826086 (17/23) Average Labels Length: 13.73913043478261
+Noun 468 Hit Accuracy (Recall): 0.7834394904458599 (492/628) Average Labels Length: 11.011146496815286
+Noun 469 Hit Accuracy (Recall): 0.7568710359408034 (1074/1419) Average Labels Length: 9.635658914728682
+Noun 470 Hit Accuracy (Recall): 0.5 (1/2) Average Labels Length: 12.0
+Noun 471 Hit Accuracy (Recall): 0.0 (0/29) Average Labels Length: 9.448275862068966
+Noun 472 Hit Accuracy (Recall): 0.5983935742971888 (149/249) Average Labels Length: 9.718875502008032
+Noun 473 Hit Accuracy (Recall): 0.0 (0/2) Average Labels Length: 12.0
+Noun 474 Hit Accuracy (Recall): 0.0 (0/5) Average Labels Length: 12.4
+Noun 475 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 9.0
+Noun 476 Hit Accuracy (Recall): 0.3333333333333333 (1/3) Average Labels Length: 10.0
+Noun 477 Hit Accuracy (Recall): 0.5833333333333334 (42/72) Average Labels Length: 13.38888888888889
+No actions found for noun 478
+No actions found for noun 479
+Noun 480 Hit Accuracy (Recall): 0.9333333333333333 (42/45) Average Labels Length: 12.822222222222223
+No actions found for noun 481
+No actions found for noun 482
+No actions found for noun 483
+No actions found for noun 484
+No actions found for noun 485
+No actions found for noun 486
+No actions found for noun 487
+No actions found for noun 488
+Noun 489 Hit Accuracy (Recall): 1.0 (3/3) Average Labels Length: 15.0
+Noun 490 Hit Accuracy (Recall): 0.5 (1/2) Average Labels Length: 3.0
+Noun 491 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 15.0
+Noun 492 Hit Accuracy (Recall): 0.0 (0/2) Average Labels Length: 9.0
+No actions found for noun 493
+No actions found for noun 494
+No actions found for noun 495
+No actions found for noun 496
+Noun 497 Hit Accuracy (Recall): 0.0 (0/3) Average Labels Length: 10.0
+Noun 498 Hit Accuracy (Recall): 1.0 (2/2) Average Labels Length: 15.0
+Noun 499 Hit Accuracy (Recall): 1.0 (1/1) Average Labels Length: 15.0
+No actions found for noun 500
+No actions found for noun 501
+No actions found for noun 502
+No actions found for noun 503
+No actions found for noun 504
+Noun 505 Hit Accuracy (Recall): 1.0 (1/1) Average Labels Length: 9.0
+Noun 506 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 10.0
+No actions found for noun 507
+No actions found for noun 508
+Noun 509 Hit Accuracy (Recall): 0.0 (0/1) Average Labels Length: 9.0
+No actions found for noun 510
+No actions found for noun 511
+No actions found for noun 512
+Noun 513 Hit Accuracy (Recall): 1.0 (3/3) Average Labels Length: 13.333333333333334
+No actions found for noun 514
+Noun 515 Hit Accuracy (Recall): 0.0 (0/8) Average Labels Length: 15.0
+No actions found for noun 516
+Noun 517 Hit Accuracy (Recall): 0.07142857142857142 (1/14) Average Labels Length: 12.571428571428571
+Noun 518 Hit Accuracy (Recall): 1.0 (3/3) Average Labels Length: 7.333333333333333
+Noun 519 Hit Accuracy (Recall): 1.0 (3/3) Average Labels Length: 14.666666666666666
+No actions found for noun 520
+Total Hit Accuracy (Recall): 0.5425201363540378 (17984/33149) Average Labels Length: 10.790793085764276
+Mean Recall: 0.42278677389704933
